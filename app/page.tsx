@@ -12,24 +12,25 @@ export default function HomePage() {
 
       {/* Hero Section */}
       <section className="relative bg-gradient-to-br from-primary to-secondary text-primary-foreground py-12 sm:py-16 md:py-20 lg:py-24 xl:py-32">
-        <div className="absolute inset-0 bg-black/20"></div>
-        <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <div className="absolute inset-0 bg-[url('/telecommunications-tower-and-solar-panels-high-tec.jpg')] bg-cover bg-center opacity-10 z-0"></div>
+        <div className="absolute inset-0 bg-black/20 z-10"></div>
+        <div className="relative z-20 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold mb-4 sm:mb-6 lg:mb-8 text-balance leading-tight tracking-tight">
             Solutions fiables en télécommunications et énergie
           </h1>
           <p className="text-lg sm:text-xl md:text-2xl lg:text-3xl xl:text-4xl mb-6 sm:mb-8 lg:mb-10 text-primary-foreground/90 max-w-3xl mx-auto text-pretty leading-relaxed">
             Installation, conseil et équipements radio, télécoms, solaires et électriques à Brazzaville.
           </p>
-          <Button
-            asChild
-            size="lg"
-            variant="secondary"
-            className="text-base sm:text-lg md:text-xl lg:text-2xl xl:text-3xl px-6 sm:px-8 md:px-10 lg:px-12 xl:px-14 py-2 sm:py-3 md:py-4 lg:py-5 xl:py-6 shadow-lg hover:shadow-xl transition-all duration-300"
-          >
-            <Link href="/contact">Contactez-nous</Link>
-          </Button>
+          <Link href="/contact">
+            <Button
+              size="lg"
+              variant="secondary"
+              className="text-base sm:text-lg md:text-xl lg:text-2xl xl:text-3xl px-6 sm:px-8 md:px-10 lg:px-12 xl:px-14 py-2 sm:py-3 md:py-4 lg:py-5 xl:py-6 shadow-lg hover:shadow-xl transition-all duration-300 cursor-pointer"
+            >
+              Contactez-nous
+            </Button>
+          </Link>
         </div>
-        <div className="absolute inset-0 bg-[url('/telecommunications-tower-and-solar-panels-high-tec.jpg')] bg-cover bg-center opacity-10"></div>
       </section>
 
       {/* Qui sommes-nous Section */}
