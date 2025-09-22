@@ -52,7 +52,7 @@ export default function AboutPage() {
             </div>
             <div className="relative">
               <img
-                src="/professional-telecommunications-team-installing-eq.jpg"
+                src="/african-telecommunications-professionals-team.jpg"
                 alt="Équipe ALL SYSTEMSCO au travail"
                 className="rounded-lg shadow-lg w-full h-auto"
               />

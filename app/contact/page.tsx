@@ -13,7 +13,7 @@ export default function ContactPage() {
       <section
         className="bg-primary text-primary-foreground py-16 lg:py-24 relative overflow-hidden"
         style={{
-          backgroundImage: "url('/professional-telecommunications-team-installing-eq.jpg')",
+          backgroundImage: "url('/african-telecommunications-professionals-team.jpg')",
           backgroundSize: "cover",
           backgroundPosition: "center",
           backgroundBlendMode: "overlay",
@@ -58,7 +58,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h4 className="font-semibold text-foreground mb-1">Email</h4>
-                    <p className="text-muted-foreground">severinmanarey@yahoo.fr</p>
+                    <p className="text-muted-foreground">contact@allsystemsco.cg</p>
                     <p className="text-sm text-muted-foreground">Réponse sous 24h</p>
                   </div>
                 </div>

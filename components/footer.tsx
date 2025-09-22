@@ -64,7 +64,7 @@ export function Footer() {
               <div className="flex items-center">
                 <Mail className="h-4 w-4 sm:h-5 sm:w-5 mr-2 sm:mr-3 flex-shrink-0" />
                 <span className="text-sm sm:text-base text-primary-foreground/80 break-all">
-                  severinmanarey@yahoo.fr
+                  contact@allsystemsco.cg
                 </span>
               </div>
             </div>

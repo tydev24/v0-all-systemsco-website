@@ -56,7 +56,7 @@ export default function HomePage() {
             <div className="relative order-1 lg:order-2">
               <div className="relative aspect-[4/3] sm:aspect-[16/10] lg:aspect-[4/3] overflow-hidden rounded-lg shadow-lg">
                 <img
-                  src="/professional-telecommunications-team-installing-eq.jpg"
+                  src="/african-telecommunications-professionals-team.jpg"
                   alt="Équipe ALL SYSTEMSCO"
                   className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
                 />
@@ -140,7 +140,7 @@ export default function HomePage() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 sm:gap-12 items-center">
             <div className="relative order-2 lg:order-1">
               <img
-                src="/professional-installation-telecommunications-equip.jpg"
+                src="/african-engineer-solar-installation.jpg"
                 alt="Installation professionnelle"
                 className="rounded-lg shadow-lg w-full h-auto"
               />

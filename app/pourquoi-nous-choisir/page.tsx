@@ -76,7 +76,7 @@ export default function WhyChooseUsPage() {
             </div>
             <div className="relative">
               <img
-                src="/professional-installation-telecommunications-equip.jpg"
+                src="/african-technician-antenna-installation.jpg"
                 alt="Installation professionnelle ALL SYSTEMSCO"
                 className="rounded-lg shadow-lg w-full h-auto"
               />
